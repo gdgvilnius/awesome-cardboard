@@ -15,3 +15,7 @@ List of apps and other favorite experiences on Google Cardboard
  * Egypt Chamber - a walk in scary chamber
  * Huyndai VR+ - like driving rally car
  * Vrse - quality 3D movies
+
+## Community voting for favorite apps
+ * [Android favorite apps in Google Cardboard Lietuva community](https://goo.gl/uvQVnE)
+ * [iPhone favorite apps in Google Cardboard Lietuva community](https://goo.gl/Z12yg0)
