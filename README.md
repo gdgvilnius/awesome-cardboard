@@ -23,3 +23,6 @@ List of apps, videos and other awesome experiences on Google Cardboard
 
 ## Videos
  * [youtube.com/360](https://goo.gl/PaXhvW)
+
+## Other
+ * [Chrome VR experiments](https://vr.chromeexperiments.com/)
